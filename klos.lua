@@ -84,7 +84,7 @@ Skey.MouseButton1Click:Connect(function()
 		wait(0.1)
 		LogBase.Visible = false
 		wait(0.1)
-		loadstring(game:HttpGet('https://scripts.luawl.com/13799/LOS.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/BruteAtk/Key/main/amsp.luau'))()
 	elseif TextBox.Text == "3GjxuxI19O" then
 		Success.Visible = true
 		wait(0.5)
@@ -92,7 +92,7 @@ Skey.MouseButton1Click:Connect(function()
 		wait(0.1)
 		LogBase.Visible = false
 		wait(0.1)
-		loadstring(game:HttpGet('https://scripts.luawl.com/13799/LOS.lua'))()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/BruteAtk/Key/main/amsp.luau'))()
 	elseif TextBox.Text == "kW20L5VnWS" then
 		Success.Visible = true
 		wait(0.5)
