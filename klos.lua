@@ -77,7 +77,7 @@ Skey.Text = "Submit"
 Skey.TextColor3 = Color3.fromRGB(0, 0, 0)
 Skey.TextSize = 14.000
 Skey.MouseButton1Click:Connect(function()
-	if TextBox.Text == "ChickenNugget5000" then
+	if TextBox.Text == "Key_Vbdr29Ex" then
 		Success.Visible = true
 		wait(0.5)
 		Success.Visible = false
